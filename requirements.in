@@ -17,3 +17,7 @@ requests
 #web3
 
 web3
+
+tenacity
+
+python-telegram-bot[job-queue]
